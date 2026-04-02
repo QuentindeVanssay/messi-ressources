@@ -1,0 +1,20 @@
+.banner {
+  background-image: linear-gradient(
+    to bottom right,
+    rgba(0, 0, 0, 0.6),
+    rgba(0, 0, 0, 0.1)
+  ),
+  url(../../images/background-image.jpeg);
+  background-size: cover;
+  background-position: center;
+  padding: 100px;
+  color: #D8A737;
+}
+.Lavishly {
+  font-family: "Lavishly Yours", cursive;
+  font-weight: 500;
+  font-size: 60px;
+  font-style: normal;
+}
+
+
